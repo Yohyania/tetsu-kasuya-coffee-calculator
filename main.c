@@ -79,7 +79,7 @@ int main(int argc, char const *argv[])
 
             case 0:{
                 system("cls");
-                printf("--- Selamat Mencoba ---");
+                printf("--- Selamat Menyeduh ---");
                 rasa = 0;
                 break;
             }
