@@ -85,7 +85,7 @@ int main(int argc, char const *argv[])
             }
 
             default:{
-                printf("!! Target Rasa Tidak Tersedia !!");
+                printf("!! Menu Tidak Tersedia !!");
                 break;
             }
         }
